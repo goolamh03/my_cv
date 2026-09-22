@@ -1,4 +1,5 @@
 GitHub Pages URL:
-https://github.com/goolamh03/my_cv
+https://goolamh03.github.io/my_cv/
 
 Note: This is the expected URL after the MyCV repository is created and GitHub Pages is deployed from the main branch. Replace it if GitHub displays a different published URL.
+
